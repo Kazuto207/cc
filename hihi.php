@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GhostManSec</title>
+    <title>Yetixx</title>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
         * {
@@ -367,7 +367,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <div class="title">GhostManSec</div>
+            <div class="title">Yetixx</div>
             
             <?php
             set_time_limit(0);
@@ -382,7 +382,7 @@
 
             function author() {
                 echo '<div class="footer">
-                        <a href="https://t.me/GhostManSec" class="telegram-link" target="_blank">
+                        <a href="https://t.me/Yetixxa" class="telegram-link" target="_blank">
                             <span>@</span>
                             <span>Telegram</span>
                         </a>
